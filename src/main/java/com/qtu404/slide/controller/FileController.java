@@ -107,6 +107,7 @@ public class FileController extends BaseController<FileVo> {
 
         result.setResult(fileService.saveFile(fileVo));
 
+
         //记录操作
         writeResult(response, result);
     }

@@ -14,7 +14,6 @@ public class SMSsender {
     //产品域名,开发者无需替换
     private static final String domain = "dysmsapi.aliyuncs.com";
 
-    // TODO 此处需要替换成开发者自己的AK(在阿里云访问控制台寻找)
     private static final String accessKeyId = "LTAIbRI55TF64dDt";
     private static final String accessKeySecret = "HpizDq0QUfZoUQGCVk6r9w9Q2ZBcEc";
 
